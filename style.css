@@ -16,5 +16,17 @@ header, nav,footer {
     padding: 20px;
     text-align: center;
     color: white;
-    
+
+}
+.cabecalho {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.navegacao { 
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.rodape{ 
+    font-size: 20px;
+    margin-top: 20px;
 }
