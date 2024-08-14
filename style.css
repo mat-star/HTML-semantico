@@ -11,7 +11,7 @@ body {
     padding: 10px;
     min-width: 100vh;
 }
-header, nav,footer {
+header,nav,footer {
     background-color: #ffa500;
     padding: 20px;
     text-align: center;
@@ -29,4 +29,15 @@ header, nav,footer {
 .rodape { 
     font-size: 20px;
     margin-top: 20px;
+}
+.conteudo{
+    display: flex;
+    flex: 1;
+    gap: 20px;
+}
+.secao-principal{
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    gap: 20px;
 }
